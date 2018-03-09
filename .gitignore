@@ -1,0 +1,9 @@
+*.txt
+*.dat
+*.xls
+*.xlsx
+*.pem
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+data/
